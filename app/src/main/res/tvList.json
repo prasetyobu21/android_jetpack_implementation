@@ -1,0 +1,431 @@
+[
+    {
+        "genre_ids": [
+            16,
+            10765
+        ],
+        "original_language": "en",
+        "name": "Love, Death & Robots",
+        "poster_path": "/asDqvkE66EegtKJJXIRhBJPxscr.jpg",
+        "vote_average": 8.2,
+        "first_air_date": "2019-03-15",
+        "vote_count": 1039,
+        "overview": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
+        "origin_country": [
+            "US"
+        ],
+        "id": 86831,
+        "backdrop_path": "/daXzoOWNBwSoG03RFh5tEqzl1sH.jpg",
+        "original_name": "Love, Death & Robots",
+        "popularity": 387.066,
+        "media_type": "tv"
+    },
+    {
+        "overview": "When the world's first generation of superheroes received their powers in the 1930s become the revered elder guard in the present, their superpowered children struggle to live up to the legendary feats of their parents.",
+        "id": 93484,
+        "backdrop_path": "/4YKkS95v9o9c0tBVA46xIn6M1tx.jpg",
+        "name": "Jupiter's Legacy",
+        "vote_count": 196,
+        "first_air_date": "2021-05-07",
+        "vote_average": 7.4,
+        "poster_path": "/9yxep7oJdkj3Pla9TD9gKflRApY.jpg",
+        "genre_ids": [
+            10765,
+            10759,
+            18
+        ],
+        "original_language": "en",
+        "original_name": "Jupiter's Legacy",
+        "origin_country": [
+            "US"
+        ],
+        "popularity": 873.987,
+        "media_type": "tv"
+    },
+    {
+        "poster_path": "/WjQmEWFrOf98nT5aEfUfVYz9N2.jpg",
+        "vote_average": 8.9,
+        "id": 105971,
+        "original_name": "The Bad Batch",
+        "origin_country": [
+            "US"
+        ],
+        "vote_count": 170,
+        "overview": "Follow the elite and experimental Clones of the Bad Batch as they find their way in a rapidly changing galaxy in the aftermath of the Clone Wars.",
+        "name": "The Bad Batch",
+        "first_air_date": "2021-05-04",
+        "genre_ids": [
+            10765,
+            10759,
+            16
+        ],
+        "backdrop_path": "/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
+        "original_language": "en",
+        "popularity": 651.924,
+        "media_type": "tv"
+    },
+    {
+        "genre_ids": [
+            10765,
+            10759,
+            18,
+            10768
+        ],
+        "original_language": "en",
+        "name": "The Falcon and the Winter Soldier",
+        "poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+        "vote_average": 7.9,
+        "first_air_date": "2021-03-19",
+        "vote_count": 5526,
+        "overview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+        "origin_country": [
+            "US"
+        ],
+        "id": 88396,
+        "backdrop_path": "/b0WmHGc8LHTdGCVzxRb3IBMur57.jpg",
+        "original_name": "The Falcon and the Winter Soldier",
+        "popularity": 1143.513,
+        "media_type": "tv"
+    },
+    {
+        "first_air_date": "2021-04-23",
+        "name": "Shadow and Bone",
+        "genre_ids": [
+            10765
+        ],
+        "original_name": "Shadow and Bone",
+        "origin_country": [
+            "US"
+        ],
+        "poster_path": "/mrVoyDFiDSqfH4mkoRtccOv2vwh.jpg",
+        "vote_count": 369,
+        "vote_average": 8.4,
+        "overview": "In a world cleaved in two by a massive barrier of perpetual darkness, a young soldier uncovers a power that might finally unite her country. But as she struggles to hone her power, dangerous forces plot against her. Thugs, thieves, assassins and saints are at war now, and it will take more than magic to survive.",
+        "id": 85720,
+        "original_language": "en",
+        "backdrop_path": "/8z9qQkx7wA6FXpLV8Tiw9mfsRFK.jpg",
+        "popularity": 99.441,
+        "media_type": "tv"
+    },
+    {
+        "backdrop_path": "/aRpkCBImOeT1bsW65TuMhASo4ub.jpg",
+        "first_air_date": "2021-05-13",
+        "genre_ids": [
+            18
+        ],
+        "id": 80039,
+        "name": "The Underground Railroad",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Underground Railroad",
+        "overview": "Follow young Cora’s journey as she makes a desperate bid for freedom in the antebellum South. After escaping her Georgia plantation for the rumored Underground Railroad, Cora discovers no mere metaphor, but an actual railroad full of engineers and conductors, and a secret network of tracks and tunnels beneath the Southern soil.",
+        "poster_path": "/CrrTqw7LHafnbdH9UcK60aOZSm.jpg",
+        "vote_average": 7.9,
+        "vote_count": 14,
+        "popularity": 54.631,
+        "media_type": "tv"
+    },
+    {
+        "genre_ids": [
+            10765,
+            18,
+            10759
+        ],
+        "original_language": "en",
+        "poster_path": "/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+        "id": 1399,
+        "vote_average": 8.4,
+        "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+        "vote_count": 14389,
+        "first_air_date": "2011-04-17",
+        "backdrop_path": "/suopoADq0k8YZr4dQXcU6pToj6s.jpg",
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "origin_country": [
+            "US"
+        ],
+        "popularity": 487.928,
+        "media_type": "tv"
+    },
+    {
+        "poster_path": "/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg",
+        "vote_average": 8.2,
+        "id": 69478,
+        "original_name": "The Handmaid's Tale",
+        "origin_country": [
+            "US"
+        ],
+        "vote_count": 1332,
+        "overview": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship. A TV adaptation of Margaret Atwood's novel.",
+        "name": "The Handmaid's Tale",
+        "first_air_date": "2017-04-26",
+        "genre_ids": [
+            10765,
+            18
+        ],
+        "backdrop_path": "/hNiGqLsiD30C194lci7VYDmciHD.jpg",
+        "original_language": "en",
+        "popularity": 459.772,
+        "media_type": "tv"
+    },
+    {
+        "name": "The Nevers",
+        "first_air_date": "2021-04-11",
+        "genre_ids": [
+            10765,
+            18
+        ],
+        "original_language": "en",
+        "poster_path": "/v6Xmj8Fy7ZruVTz3y2Po7O0TQh4.jpg",
+        "vote_count": 276,
+        "id": 80828,
+        "vote_average": 8.5,
+        "original_name": "The Nevers",
+        "origin_country": [
+            "US"
+        ],
+        "overview": "In the last years of Victoria's reign, London is beset by the \"Touched\": people — mostly women — who suddenly manifest abnormal abilities, some charming, some very disturbing. Among them are Amalia True, a mysterious, quick-fisted widow, and Penance Adair, a brilliant young inventor. They are the champions of this new underclass, making a home for the Touched, while fighting the forces of… well, pretty much all the forces — to make room for those whom history as we know it has no place.",
+        "backdrop_path": "/6x8vW5utEZahp6V3sSWxCTW0mHW.jpg",
+        "popularity": 131.14,
+        "media_type": "tv"
+    },
+    {
+        "genre_ids": [
+            16,
+            10759,
+            18,
+            10765
+        ],
+        "original_language": "en",
+        "name": "Invincible",
+        "poster_path": "/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+        "vote_average": 8.9,
+        "first_air_date": "2021-03-26",
+        "vote_count": 1659,
+        "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+        "origin_country": [
+            "US"
+        ],
+        "id": 95557,
+        "backdrop_path": "/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
+        "original_name": "Invincible",
+        "popularity": 922.578,
+        "media_type": "tv"
+    },
+    {
+        "vote_average": 8.3,
+        "overview": "A dark medieval fantasy following the last surviving member of the disgraced Belmont clan, trying to save Eastern Europe from extinction at the hand of Vlad Dracula Tepe himself. Inspired by the classic video game series.",
+        "id": 71024,
+        "name": "Castlevania",
+        "vote_count": 526,
+        "genre_ids": [
+            10765,
+            16
+        ],
+        "original_name": "Castlevania",
+        "origin_country": [
+            "US"
+        ],
+        "backdrop_path": "/46ThFmdl8P8QRbgC2OcZ4UyFG3P.jpg",
+        "poster_path": "/lqS90fU1IEHSbga7X6Gej5amBvR.jpg",
+        "original_language": "en",
+        "first_air_date": "2017-07-07",
+        "popularity": 144.544,
+        "media_type": "tv"
+    },
+    {
+        "first_air_date": "2021-04-30",
+        "name": "The Innocent",
+        "genre_ids": [
+            80,
+            9648,
+            18
+        ],
+        "original_name": "El inocente",
+        "origin_country": [
+            "ES"
+        ],
+        "poster_path": "/6USbtATMqFLkeafx3FV3wcGZTNo.jpg",
+        "vote_count": 31,
+        "vote_average": 8.2,
+        "overview": "An accidental killing leads a man down a dark hole of intrigue and murder. Just as he finds love and freedom, one phone call brings back the nightmare.",
+        "id": 119988,
+        "original_language": "es",
+        "backdrop_path": "/gB9l7epUG4lZKe68bTdL6u6eZCK.jpg",
+        "popularity": 121.095,
+        "media_type": "tv"
+    },
+    {
+        "genre_ids": [
+            18,
+            10765
+        ],
+        "original_language": "en",
+        "name": "The Flash",
+        "poster_path": "/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+        "vote_average": 7.7,
+        "first_air_date": "2014-10-07",
+        "vote_count": 7615,
+        "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+        "origin_country": [
+            "US"
+        ],
+        "id": 60735,
+        "backdrop_path": "/jeruqNWhqRqOR1QyqdQdHunrvU5.jpg",
+        "original_name": "The Flash",
+        "popularity": 997.45,
+        "media_type": "tv"
+    },
+    {
+        "poster_path": "/1j4vxmpsjCTIOCUAzevHF8M8aZx.jpg",
+        "vote_average": 8.7,
+        "overview": "Years ago, the fearsome pirate king Gol D. Roger was executed, leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new pirate king. Monkey D. Luffy, a boy who consumed one of the \"Devil's Fruits\", has it in his head that he'll follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and he's surrounded by a bevy of skilled fighters and thieves to help him along the way. Monkey D. Luffy brings a bunch of his crew followed by, Roronoa Zoro, Nami, Usopp, Sanji, Tony-Tony Chopper, Nico Robin, Franky, and Brook. They will do anything to get the One Piece and become King of the Pirates!..",
+        "first_air_date": "1999-10-20",
+        "id": 37854,
+        "vote_count": 2036,
+        "original_name": "ワンピース",
+        "origin_country": [
+            "JP"
+        ],
+        "genre_ids": [
+            10759,
+            35,
+            16
+        ],
+        "name": "One Piece",
+        "original_language": "ja",
+        "backdrop_path": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+        "popularity": 43.972,
+        "media_type": "tv"
+    },
+    {
+        "first_air_date": "2021-04-18",
+        "vote_count": 104,
+        "overview": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
+        "vote_average": 7.7,
+        "backdrop_path": "/whWHhs6p1YVMKDsH9yuvF2KR64d.jpg",
+        "name": "Mare of Easttown",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "original_name": "Mare of Easttown",
+        "origin_country": [
+            "US"
+        ],
+        "id": 115004,
+        "poster_path": "/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
+        "original_language": "en",
+        "popularity": 92.427,
+        "media_type": "tv"
+    },
+    {
+        "genre_ids": [
+            18
+        ],
+        "original_language": "en",
+        "name": "Halston",
+        "poster_path": "/uBRpPFcYAYLM7V3x6x7bP3Ucumj.jpg",
+        "vote_average": 7.7,
+        "first_air_date": "2021-05-14",
+        "vote_count": 3,
+        "overview": "American fashion designer Halston skyrockets to fame before his life starts to spin out of control.",
+        "origin_country": [
+            "US"
+        ],
+        "id": 99617,
+        "backdrop_path": "/nnjpriaXnqkIbuikWDvUsMEAyfv.jpg",
+        "original_name": "Halston",
+        "popularity": 129.076,
+        "media_type": "tv"
+    },
+    {
+        "genre_ids": [
+            18,
+            10759
+        ],
+        "original_language": "en",
+        "poster_path": "/yVtwJQN2uBbGF9rryXPIvuJHWzH.jpg",
+        "id": 93716,
+        "vote_average": 8.5,
+        "overview": "Allie Fox—a brilliant inventor and stubborn idealist—uproots his family for a dangerous quest through Mexico to flee the U.S. government and find safety.",
+        "vote_count": 13,
+        "first_air_date": "2021-04-30",
+        "backdrop_path": "/hSoB7M5wMKqUKwI2k0hq9RJcOSU.jpg",
+        "name": "The Mosquito Coast",
+        "original_name": "The Mosquito Coast",
+        "origin_country": [
+            "US"
+        ],
+        "popularity": 45.931,
+        "media_type": "tv"
+    },
+    {
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "original_language": "th",
+        "name": "Girl from Nowhere",
+        "poster_path": "/9hDXqzN5l4lBmEtb8IstXr91k8z.jpg",
+        "vote_average": 8.9,
+        "first_air_date": "2018-10-27",
+        "vote_count": 26,
+        "overview": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
+        "origin_country": [
+            "TH"
+        ],
+        "id": 83639,
+        "backdrop_path": "/pBHXMfeNWVMR7stjnCaSOZLOV7I.jpg",
+        "original_name": "เด็กใหม่",
+        "popularity": 79.23,
+        "media_type": "tv"
+    },
+    {
+        "genre_ids": [
+            10765,
+            16,
+            10759
+        ],
+        "original_language": "ja",
+        "name": "Attack on Titan",
+        "poster_path": "/1MaoMVXA4SiwtNpPVFKEd6deuVR.jpg",
+        "vote_average": 8.6,
+        "first_air_date": "2013-04-07",
+        "vote_count": 3369,
+        "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
+        "origin_country": [
+            "JP"
+        ],
+        "id": 1429,
+        "backdrop_path": "/yvKrycViRMQcIgdnjsM5JGNWU4Q.jpg",
+        "original_name": "進撃の巨人",
+        "popularity": 114.494,
+        "media_type": "tv"
+    },
+    {
+        "vote_average": 8.3,
+        "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+        "id": 71446,
+        "name": "Money Heist",
+        "vote_count": 12933,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "original_name": "La casa de papel",
+        "origin_country": [
+            "ES"
+        ],
+        "backdrop_path": "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+        "poster_path": "/MoEKaPFHABtA1xKoOteirGaHl1.jpg",
+        "original_language": "es",
+        "first_air_date": "2017-05-02",
+        "popularity": 186.425,
+        "media_type": "tv"
+    }
+]
